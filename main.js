@@ -1,4 +1,4 @@
-const secondHand = document.querySelector('.second-hand'); // creates a variable and assigns i the value that is contained within the "second-hand" class
+const secondHand = document.querySelector('.second-hand'); // creates a variable and assigns it the value that is contained within the "second-hand" class
 const minsHand = document.querySelector('.minute-hand');
 const hourHand = document.querySelector('.hour-hand');
 
